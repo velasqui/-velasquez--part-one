@@ -18,8 +18,12 @@ a:visited {
 }
 
 a:hover {
-    color: white;
+    color: black;
     text-decoration: underline;
+}
+
+.dark-li a:hover {
+    color: white;
 }
 /******* Header Section *******/
 
